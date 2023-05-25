@@ -17,6 +17,7 @@ und::apply(&arr, &f64::sin);
 ```
 
 ## TODO
+- EXTEND FOR FUNCTIONS WITH MULTIPLE INPUTS!!!
 - improve derivative approx.
 - correlations when calculations are done with ndarray
 - make lib, (into public crate when tested and stable.....)
